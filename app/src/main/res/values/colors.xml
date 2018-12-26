@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#2EB9FA</color>
+    <color name="gray">#edecec</color>
+    <color name="text_bg">#A39F9C</color>
+    <color name="text_color">#837B78</color>
+    <color name="progress_text_gray">#585A59</color>
+    <color name="progress_black">#21292D</color>
+    <color name="gray_light"> #F4F4F4</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="listview_bg">#F3F3F7</color>
+    <color name="yellow">#FFC125</color>
+    <color name="font_gray">#ff888888</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="carperson_black">#70000000</color>
+    <color name="textview_table_bg">#ffe4e3e4</color>
+    <color name="edittext_table_bg_focus">#ffe5f3f8</color>
+    <color name="badger_bg">#FF3E3E</color>
+    <color name="customGray">#FFE2E0E7</color>
+    <color name="customBlueness">#1974CD</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="green">#ff28a308</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="maincolor">#5077aa</color>
+    <color name="mygray">#B6B6B6</color>
+    <color name="ic_tint">#cb666666</color>
+    <color name="pesscolor">#D5D5D8</color>
+    <color name="grey">#BEBEBE</color>
+    <color name="grey_white">#FAFAFA</color>
+</resources>
